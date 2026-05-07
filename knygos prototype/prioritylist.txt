@@ -1,0 +1,5 @@
+1. full system requirements
+2. atsiliepimai from accounts
+3. knygu aprasymai -> is interneto?
+4. sorting algorithm?
+! javafx ar swing kodel? -> justify for ib 
